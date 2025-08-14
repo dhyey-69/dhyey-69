@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" height="100" src="https://media.tenor.com/EJebvFfoU74AAAAM/richy-alford.gif"  />
+<img align="right" height="110" src="https://media.tenor.com/EJebvFfoU74AAAAM/richy-alford.gif"  />
 
 ###
 
@@ -31,14 +31,6 @@ Here are some ideas to get you started:
 ###
 
 <br clear="both">
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Dhyey Bhatt from Nadiad Gujarat<br><br>- 🔭 I’m working as Salesforce Developer<br>- 📚 I'm currently learning Google AI<br>- ⚡ In my free time I</p>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
